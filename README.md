@@ -1,3 +1,4 @@
-![logo](https://user-images.githubusercontent.com/101025220/217690778-474ca76e-4470-4a01-8a87-26e5fe2a04c2.svg)
+![streetmoney](https://user-images.githubusercontent.com/101025220/217690882-271e3fa8-584f-4a46-ae9c-0dab58dcafab.png)
+
 # srtm
 SRTM is a cryptocurrency lives on Zilliqa blockchain
